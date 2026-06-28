@@ -158,8 +158,7 @@ color:#bfe7ff;
 
 .foto{
 
-width:220px;
-height:220px;
+width:120px;
 
 border-radius:2px;
 
@@ -415,11 +414,11 @@ box-shadow:
 
 .foto-card-galeri img{
 
-width:260px;
+width:160px;
 margin: 20px auto;
 padding: 15px;
 
-height:170px;
+height:160px;
 
 object-fit:cover;
 
