@@ -158,18 +158,18 @@ color:#bfe7ff;
 
 .foto{
 
-width:180px;
-height:180px;
+width:220px;
+height:220px;
 
-border-radius:25px;
+border-radius:2px;
 
-margin:20px auto;
+margin:auto;
 
 display:block;
 
 object-fit:cover;
 
-border:4px solid white;
+border:3px solid white;
 
 box-shadow:
 0 0 25px #90caf9;
@@ -181,7 +181,7 @@ box-shadow:
 
 .card{
 
-width:100%;
+width:250px;
 
 padding:18px;
 
